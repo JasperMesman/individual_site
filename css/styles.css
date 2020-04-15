@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.my-navbar {
+	
+	background-color: #99C6F5;
+}
+
+.my-header {
+	background-image: url("../images/hp1.jpg");
+	background-size: cover;
+	background-position: center
+	
+}
+
+.jutitle {
+	color: #99C6F5
+}
+
+.img-about {
+	
+	align-items: center
+}
+
+.my-about {
+	background-color: #99C6F5;
+	margin-left: 30px;
+	margin-right: 30px
+}
+
+.about-content {
+	margin: auto
+}
