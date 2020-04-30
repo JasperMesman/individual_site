@@ -41,3 +41,9 @@
 .about-content {
 	margin: auto
 }
+
+.carousel {
+  width: 1000px; 
+  height:720px;
+  margin: auto;
+  }
